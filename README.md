@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anaisbetts-mcp-installer-badge.png)](https://mseep.ai/app/anaisbetts-mcp-installer)
+
 # mcp-installer - A MCP Server to install MCP Servers
 
 This server is a server that installs other MCP servers for you. Install it, and you can ask Claude to install MCP servers hosted in npm or PyPi for you. Requires `npx` and `uv` to be installed for node and Python servers respectively.
